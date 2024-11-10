@@ -16,6 +16,6 @@ Code management and adding methods:
 Examples for all of these guidelines are in the code because I have created the code by following them.
 
 Importent rules for uploading changes!!!!:
-    • Everyone can only upload changed in their named branch so no direct upload in the main branch.
+    • Everyone can only upload changes in their named branch so no direct upload in the main branch.
     • The main branch will only be uploaded in after we review changes in every branch and merge them in main.
     • Any bug fixes will only be performed after we merge the code in main branch which will be done end of every week on Sunday, the next two days anyone or all of the team members can do debugging of the         code and on the second day after merge in main we well also merge the bug fix in the main branch.
